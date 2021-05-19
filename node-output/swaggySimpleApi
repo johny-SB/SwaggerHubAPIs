@@ -2,7 +2,7 @@
   "openapi" : "3.0.0",
   "info" : {
     "title" : "Simple Inventory API",
-    "description" : "This is a simple API and Dhiraj made some changes",
+    "description" : "This is a simple API and Dhiraj made some more changes",
     "contact" : {
       "email" : "you@your-company.com"
     },
@@ -13,7 +13,7 @@
     "version" : "1.0.1"
   },
   "servers" : [ {
-    "url" : "https://virtserver.swaggerhub.com/Demo_DR1/APITest/1.0.0",
+    "url" : "https://virtserver.swaggerhub.com/Demo_DR1/APITest/1.0.1",
     "description" : "SwaggerHub API Auto Mocking"
   } ],
   "tags" : [ {
